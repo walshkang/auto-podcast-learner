@@ -1,6 +1,6 @@
 "use client";
 
-import { clsx } from "clsx";
+import clsx from "clsx";
 
 export type Mode = "intro_101" | "deep_dive_201";
 
